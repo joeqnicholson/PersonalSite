@@ -1,3 +1,1 @@
-# PersonalSite
-My portfolio
-Jimbo
+Joe's Portfolio
