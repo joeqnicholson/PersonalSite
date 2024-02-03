@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
 
 #exalted_title
 {
-    color: rgba(255, 255, 255, 255);
+    color: rgba(75,75,255, 255);
     /* -webkit-text-stroke: 2px rgb(255, 255, 255); */
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Roboto Slab', monospace;
     font-size: 5.8rem; 
     letter-spacing: +0.7rem;
     text-align: center;
@@ -21,9 +21,9 @@
 
 #exalted_quote
 {
-    font-family: 'VT323', 'monospace';
-    color: rgba(255, 255, 255, 255);
-    border-color: rgba(255, 255, 255, 0.2);
+    font-family: 'Crimson Text', 'monospace';
+    color: rgba(75,75,255, 255);
+    border-color: rgba(75,75,255, 0.2);
     text-align: center;
     font-size: 20px;
 }
@@ -36,7 +36,7 @@
 #exalted_body
 {
     text-align: center;
-    font-family: 'cascadia', 'monospace';
+    font-family: 'Roboto Slab', 'monospace';
 }
 
 #exalted_youtube
@@ -46,7 +46,7 @@
 
 .exalted_text
 {
-    color: rgba(255, 255, 255, 255);
+    color: rgba(75,75,255, 255);
     font-size: 1.8rem; 
     letter-spacing: -.05rem;
 } 

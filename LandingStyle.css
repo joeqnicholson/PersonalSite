@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
 body {
-    background-color: #1d2e1f;
-    /* background-image: linear-gradient(
-        rgba(0, 0, 255, 0.2), #1c2619 102% 
-    ); */
-    background-image: repeating-linear-gradient(rgba(0, 0, 255, 0.2), rgba(0, 0, 255, 0.2),#1c2619  102% ); 
+    background-color: #4bdb5c;
 
     height: 100vh;
 
@@ -25,7 +21,7 @@ body::after {
     height: 100vh;
     pointer-events: none;
     /* background-image: radial-gradient(
-        rgba(0, 0, 0, 0), rgba(1, 1, 1, 0.4) 93%
+        rgba(75,75,255, 0), rgba(1, 1, 1, 0.4) 93%
     ); */
 
 }
