@@ -357,6 +357,9 @@
   .u-max-full-width {
     max-width: 100%;
     box-sizing: border-box; }
+    .u-max-quarter-width {
+      max-width: 25%;
+      box-sizing: border-box; }
   .u-pull-right {
     float: right; }
   .u-pull-left {
