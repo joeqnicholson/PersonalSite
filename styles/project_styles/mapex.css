@@ -28,6 +28,13 @@
     font-size: 25px;
 }
 
+#github_link_mapex
+{
+    align-self: center;
+    text-align: center;
+    font-size: 50px;
+}
+
 #mapex_tldr
 {
     text-align: center;
